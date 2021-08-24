@@ -7,3 +7,5 @@
 2. Dice Rolling Sim:
 	- user chooses the number of dices
 	- program generates a random number for each dice
+	
+3. Rock, Paper, Scissors
